@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "キラーチューン",
+  "base_artist": "東京事変",
+  "createdAt": "2026-02-13T04:00:42.482670Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キラーチューン (東京事変)",
+      "artist": "Orgel Sound J-Pop",
+      "has_synced": false,
+      "path": "select/01_キラーチューン_(東京事変)_Orgel_Sound_J-Pop.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Killer-tune [キラーチューン]",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/02_Killer-tune_[キラーチューン]_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キラーチューン",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/03_キラーチューン_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キラーチューン",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/04_キラーチューン_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "キラーチューン",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/05_キラーチューン_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Killer Tune (キラーチューン)",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/06_Killer_Tune_(キラーチューン)_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "キラーチューン！",
+      "artist": "EMERGENCY",
+      "has_synced": false,
+      "path": "select/07_キラーチューン!_EMERGENCY.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キラーチューン",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_キラーチューン_東京事変.txt"
+    }
+  ]
+}
